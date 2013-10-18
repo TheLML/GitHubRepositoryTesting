@@ -4,7 +4,7 @@ package core;
 /**
  * Test for GitHub.
  *
- * @author Marius Zächer
+ * @author Marius Zï¿½cher
  */
 public class Main
 {
@@ -16,6 +16,7 @@ public class Main
     */
    public static void main(String[] args)
    {
+      //File edited on github.com
       System.out.println("Hello");
       System.out.println("World!");
    }
